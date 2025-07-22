@@ -17,3 +17,12 @@ img {
 .ponto {
     list-style-type: none;
 }
+
+.class2{
+  width: 30px; 
+  text-align: center;
+}
+
+.class1{
+  max-width: 400px; margin: auto;
+}
