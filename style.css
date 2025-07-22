@@ -1,0 +1,19 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  max-width: 180px;
+  height: auto;
+}
+
+.habilidades{
+  font-size: 2.2em;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.ponto {
+    list-style-type: none;
+}
